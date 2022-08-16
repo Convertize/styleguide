@@ -7,6 +7,4 @@ description: >-
 
 # Introdução
 
-
-
-styleguide
+![](.gitbook/assets/logo-400.png)
